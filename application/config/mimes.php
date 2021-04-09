@@ -4,7 +4,7 @@ return array(
 
 	'hqx'   => 'application/mac-binhex40',
 	'cpt'   => 'application/mac-compactpro',
-	'csv'   => array('text/x-comma-separated-values', 'text/comma-separated-values', 'application/octet-stream'),
+	'csv'   => array('text/x-comma-separated-values', 'text/comma-separated-values', 'application/octet-stream2'),
 	'bin'   => 'application/macbinary',
 	'dms'   => 'application/octet-stream',
 	'lha'   => 'application/octet-stream',
